@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 now text2
+=======
+>>>>>>> cb62947... commit 1
 now text
